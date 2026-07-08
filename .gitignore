@@ -1,0 +1,21 @@
+# Dataset
+data/
+
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Outputs
+outputs/
+
+# Checkpoints
+checkpoints/
+
+# VS Code
+.vscode/

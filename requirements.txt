@@ -1,0 +1,12 @@
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+pandas
+scikit-learn
+timm
+einops
+tensorboard
+tqdm
+pyyaml
